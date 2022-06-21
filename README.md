@@ -1,2 +1,3 @@
 # Simulasi-TensorFlow-Certificate-Dicoding
 Bangkit 2022 Machine Learning
+Sertifikasi TensorFlow Developer Certificate (TDC) merupakan bagian dari program Google Developers Certification yang bertujuan agar tersedia sertifikat terpercaya yang diakui oleh komunitas dan perusahaan. Seorang TensorFlow Developer yang tersertifikasi dapat menggunakan TensorFlow untuk menunjukkan keterampilan yang dibutuhkan dalam mengerjakan pembelajaran mesin dan deep learning. Simulasi ujian ini telah disusun oleh Google Developers Authorized Training Partner agar Anda dapat mempersiapkan diri dengan matang sebelum mengambil ujian TDC.
